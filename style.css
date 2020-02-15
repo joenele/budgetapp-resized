@@ -308,7 +308,4 @@ h2 {
     .income {
         width: 50vw;
     }
-    .income, .expenses {
-        padding-left: 10px;
-    }
 }
