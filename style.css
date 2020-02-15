@@ -285,7 +285,7 @@ h2 {
 .unpaid:hover .item__description { font-weight: 900; }
 
 .instructions{
-    margin: 15px;
+    margin: 12.5px;
     font-size: 20px;
     font-weight: 300;
     text-align: center;
@@ -298,11 +298,11 @@ h2 {
 
     .budget__income--text, .budget__expenses--text {
         color:white;
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .top {
-        height: 50vh;
+        height: 40vh;
     }
 
     .income {
