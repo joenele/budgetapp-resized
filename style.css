@@ -305,11 +305,10 @@ h2 {
         height: 50vh;
     }
 
-    .bottom {
-        padding: 0 10px 0 10px;
-    }
-
     .income {
         width: 50vw;
+    }
+    .income, .expenses {
+        padding-left: 10px;
     }
 }
